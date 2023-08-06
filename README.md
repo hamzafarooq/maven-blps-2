@@ -1,1 +1,1 @@
-# maven-blps-2
+# maven-building-llm-apps
