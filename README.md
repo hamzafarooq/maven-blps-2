@@ -61,6 +61,16 @@ It is **designed for**:
 
 ---
 
+## 📢 Attribution & Credits  
+
+If you use my course material, content, or research in your work, please credit me and the respective contributors.  
+
+🔹 **Proper citation format:**  
+> Farooq, H. (2024). *Building LLM Applications from Scratch*  
+> Stanford Continuing Studies: *The AI Leadership Series*  
+
+📌 Tagging & mentions are always appreciated! 😊  
+
 ## 📅 **Course Syllabus**  
 
 ### **Week 1: Introduction to NLP**  
